@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-drawing-canvas-2117-2126/drawing_canvas_frontend"
+}
